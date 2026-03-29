@@ -1,0 +1,35 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Node Modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build & Dist
+dist/
+build/
+
+# IDE & Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*~
+.DS_Store
+
+# OS Files
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Misc
+.cache/
+.eslintcache
