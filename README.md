@@ -19,7 +19,7 @@ A personal finance tracker REST API built with Node.js, Express, and MongoDB.
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/your-username/r4rupeeb.git
+git clone https://github.com/Kanishk-0171/r4rupeeb.git
 cd r4rupeeb
 npm install
 ```
